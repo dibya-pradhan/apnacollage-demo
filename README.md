@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my second repository
 <br>
-Author-Shradha Khapra
+Author-Shradha Khapra(Apna Collage)
